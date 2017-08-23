@@ -1,0 +1,21 @@
+h1 {
+    font-size: 6em; /* 40px/16=2.5em */
+    font-family: "Courier New", serif;
+    font-variant: small-caps;
+}
+p {
+    font-size: 1.5em; /* 14px/16=0.875em */
+    font-variant: small-caps;
+    font-family: "Courier New", serif;
+}
+img {
+     margin-left: 130px;
+     margin-bottom: 60px;
+}
+body {
+    background-image: url("Images/bg.jpg"), url("Images/bg.1.jpg");
+    background-repeat: no-repeat;
+    background-position: right center, left center;
+    margin-right: 200px;
+    background-attachment: fixed;
+}
