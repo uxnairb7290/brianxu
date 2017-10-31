@@ -19,3 +19,18 @@ body {
     margin-right: 200px;
     background-attachment: fixed;
 }
+h2 {
+    font-size: 1.5em; /* 14px/16=0.875em */
+    font-variant: small-caps;
+    font-family: "Courier New", serif;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-bottom: 60px;
+}
+h3 {
+    font-size: 1.25em; /* 14px/16=0.875em */
+    font-variant: small-caps;
+    font-family: "Courier New", serif;
+     margin-left: 100px;
+     margin-right: 100px;
+}
